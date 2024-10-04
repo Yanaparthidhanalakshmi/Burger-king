@@ -1,0 +1,30 @@
+[
+    {
+        "img":"./assests/b1.jpg",
+        "bHead":"FREE Any Size Soft Drink with $1+ purchase",
+        "pContent":"It’s the last Perks Week deal! Get a FREE Any Size Soft Drink when you make a $1+ purchase.",
+        "c":"See Terms",
+        "b":"Order Now"
+    },
+    {
+        "img":"./assests/b2.jpg",
+        "bHead":"7 days. 7 delicious deals.",
+        "pContent":"Welcome to Perks Week! A whole week of can’t-miss perks for our loyal members. Tasty deals drop every day, now through 9/22.",
+        "c":"See Terms",
+        "b":"View Details"
+    },
+    {
+        "img":"./assests/b3.jpg",
+        "bHead":"Your quarterly FREE Whopper® is here!",
+        "pContent":"Head over to the Offers tab to redeem your Walmart+ benefit—a FREE Whopper® with any purchase",
+        "c":"See Terms",
+        "b":"Reedem Now"
+    },
+    {
+        "img":"./assests/b4.jpg",
+        "bHead":"Think you can handle the BK® grill?",
+        "pContent":"Hop in the kitchen and show us your Whopper®-building skills. Top each flame-grilled Whopper® with the correct toppings as the orders roll in. You could win up to 750 Crowns! Play daily through 9/22!" ,
+        "c":"See Terms",
+        "b":"Play Now"
+    }
+]
